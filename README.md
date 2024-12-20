@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Behrooz Etebari
 - 👀 I’m interested in Groundwater modeling via IWFM and MODFLOW-OWHM.
-- 🌱 I’m currently learning ArcPy functions
+- 🌱 I’m currently learning ArcPy and GeoPandas functions
 - 💞️ I’m looking to collaborate on stream Flow Factor estimation via analytical approaches and Apportionment techniques.
 - 📫 How to reach me https://www.linkedin.com/in/behrooz-etebari-5295548b/
 
